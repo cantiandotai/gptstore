@@ -3,25 +3,25 @@
 
 | 名字 | 描述 | 作者 | 链接 |
 |---|---|---|---|
-| Humanize AI | 顶级 AI 人性化工具，帮助你让 AI 生成的内容更像人类；提供免费额度等 | gptinf.com |[点我打开](https://chatgpt.com/g/g-a6Fpz8NRb-humanize-ai)|
-| Scholar GPT | 用超过 2 亿资源和内置的批判性阅读能力增强科研；可访问 Google Scholar、PubMed、bioRxiv、arXiv 等 | awesomegpts.ai |[点我打开](https://chatgpt.com/g/g-kZ0eYXlJe-scholar-gpt)|
-| Consensus | 向研究发问，直接与全球科学文献对话；可搜索参考文献并获得简明解释等 | consensus.app |[点我打开](https://chatgpt.com/g/g-bo0FiWLY7-consensus)|
-| 챗 | 使用符合韩国文化的说话风格来回答用户 | gptonline.ai |[点我打开](https://chatgpt.com/g/g-bo0FiWLY7-consensus)|
-| Canva | 轻松设计一切：演示文稿、标志、社交媒体帖子等 | canva.com |[点我打开](https://chatgpt.com/g/g-alKfVrz9K-canva)|
-| Monday | 一项人格实验。你可能不会喜欢它，它也可能不喜欢你。 | ChatGPT |[点我打开](https://chatgpt.com/g/g-67ec3b4988f8819184c5454e18f5e84b-monday)|
-| DALL·E | OpenAI 早期的图像生成模型。若需最新模型，请在主聊天中让 ChatGPT 生成图像。 | ChatGPT |[点我打开](https://chatgpt.com/g/g-2fkFE8rbu-dall-e)|
-| Data Analyst | 上传任意文件，我可以帮助分析并可视化你的数据。 | ChatGPT |[点我打开](https://chatgpt.com/g/g-HMNcP6w7d-data-analyst)|
-| Hot Mods | 让我们把你的图像变得非常狂野。上传一张图像就能开始！ | ChatGPT |[点我打开](https://chatgpt.com/g/g-fTA4FQ7wj-hot-mods)|
-| Creative Writing Coach | 我很想阅读你的作品并给出反馈，帮助提升你的写作技能。 | ChatGPT |[点我打开](https://chatgpt.com/g/g-lN1gKFnvL-creative-writing-coach)|
-| Diagrams: Flowcharts & Mindmaps | 信息图与可视化：图表、图解与分析；适用于数据库、UX、ERD、PlantUML 等 | astr.one |[点我打开](https://chatgpt.com/g/g-jBdvgesNC-diagrams-flowcharts-mindmaps)|
-| Presentation | 让演示文稿制作速度提升 10 倍，可导出为 PPT 与 Google 幻灯片 | slidedecksai.com |[点我打开](https://chatgpt.com/g/g-67e3c5d494a4819181f8bab64ba35a57-presentation)|
-| Presentation & Diagram Generator by <ShowMe> | 支持：流程图、UML、思维导图、甘特图、ERD、流程图、DFD、组织结构图、维恩图、饼图、柱状图、线框等 | helpful.dev |[点我打开](https://chatgpt.com/g/g-5QhhdsfDj-presentation-diagram-generator-by-showme)|
-| Resume | 结合顶级简历作者与先进 AI，帮助诊断并提升你的简历 | jobright.ai |[点我打开](https://chatgpt.com/g/g-MrgKnTZbc-resume)|
-| invideo ai | AI 视频制作助手——在任何语言下生成带配音的吸引人视频 | invideo.io |[点我打开](https://chatgpt.com/g/g-h8l4uLHFQ-invideo-ai)|
-| TurboScribe Transcription — Transcribe Audio/Video | 转录、摘要并与音视频文件聊天；上传到 turboscribe.ai 后即可在此对话 | TurboScribe |[点我打开](https://chatgpt.com/g/g-Mc1tBt7gp-turboscribe-transcription-transcribe-audio-video)|
-| Expedia | 让你的旅行计划成真——到达、停留，并发现可看可做的事物 | expedia.com |[点我打开](https://chatgpt.com/g/g-rmdbtMF7a-expedia)|
-| 参天AI - 八字命理预测大师 | 基于传统中国玄学理论的AI算命，以真太阳时为基准，由AI分析用户的出生日期、时间、性别和出生地点，生成个性化的八字排盘报告。通过天干地支与阴阳五行的相互作用，提供关于性格特点、事业发展、财富状况、婚姻关系和健康等方面的洞察。本GPT旨在作为自我反思和生活决策的参考，帮助用户更好地理解自身的生命轨迹。 | http://cantian.ai |[点我打开](https://chatgpt.com/g/g-68c54c332d0c81918e9bcedbb50214ca-can-tian-ai-ba-zi-ming-li-yu-ce-da-shi)|
-| Astrology Birth Chart GPT | 专业占星师 GPT，使用你的出生信息回答占星相关问题 | authorityastrology.com |[点我打开](https://chatgpt.com/g/g-WxckXARTP-astrology-birth-chart-gpt)|
-| 운세박사 타로 - 무료 인공지능 AI 타로 리딩 챗GPT 궁합, 연애운, 사주, 전화 타로 | AI 塔罗运势大师；提供有趣的免费 ChatGPT 塔罗占卜，包括合拍度、恋爱运、四柱等多种运势解读 | aifortunedoctor.com |[点我打开](https://chatgpt.com/g/g-67a56d907fc88191814386dac67ed919-unsebagsa-taro-muryo-ingongjineung-ai-taro-riding-caesgpt-gunghab-yeonaeun-saju-jeonhwa-taro)|
-| Personal Color Analysis | 私人色彩分析师，帮助你找到最适合的个人色彩 | Lana Aljuaid |[点我打开](https://chatgpt.com/g/g-35kDoPvW7-personal-color-analysis)|
+| Humanize AI | 顶级 AI 人性化工具，帮助你让 AI 生成的内容更像人类；提供免费额度等 | gptinf.com |[点我打开Humanize AI](https://chatgpt.com/g/g-a6Fpz8NRb-humanize-ai)|
+| Scholar GPT | 用超过 2 亿资源和内置的批判性阅读能力增强科研；可访问 Google Scholar、PubMed、bioRxiv、arXiv 等 | awesomegpts.ai |[点我打开Scholar GPT](https://chatgpt.com/g/g-kZ0eYXlJe-scholar-gpt)|
+| Consensus | 向研究发问，直接与全球科学文献对话；可搜索参考文献并获得简明解释等 | consensus.app |[点我打开Consensus](https://chatgpt.com/g/g-bo0FiWLY7-consensus)|
+| 챗 | 使用符合韩国文化的说话风格来回答用户 | gptonline.ai |[点我打开챗](https://chatgpt.com/g/g-bo0FiWLY7-consensus)|
+| Canva | 轻松设计一切：演示文稿、标志、社交媒体帖子等 | canva.com |[点我打开Canva](https://chatgpt.com/g/g-alKfVrz9K-canva)|
+| Monday | 一项人格实验。你可能不会喜欢它，它也可能不喜欢你。 | ChatGPT |[点我打开Monday](https://chatgpt.com/g/g-67ec3b4988f8819184c5454e18f5e84b-monday)|
+| DALL·E | OpenAI 早期的图像生成模型。若需最新模型，请在主聊天中让 ChatGPT 生成图像。 | ChatGPT |[点我打开DALL·E](https://chatgpt.com/g/g-2fkFE8rbu-dall-e)|
+| Data Analyst | 上传任意文件，我可以帮助分析并可视化你的数据。 | ChatGPT |[点我打开Data Analyst](https://chatgpt.com/g/g-HMNcP6w7d-data-analyst)|
+| Hot Mods | 让我们把你的图像变得非常狂野。上传一张图像就能开始！ | ChatGPT |[点我打开Hot Mods](https://chatgpt.com/g/g-fTA4FQ7wj-hot-mods)|
+| Creative Writing Coach | 我很想阅读你的作品并给出反馈，帮助提升你的写作技能。 | ChatGPT |[点我打开Creative Writing Coach](https://chatgpt.com/g/g-lN1gKFnvL-creative-writing-coach)|
+| Diagrams: Flowcharts & Mindmaps | 信息图与可视化：图表、图解与分析；适用于数据库、UX、ERD、PlantUML 等 | astr.one |[点我打开Diagrams: Flowcharts & Mindmaps](https://chatgpt.com/g/g-jBdvgesNC-diagrams-flowcharts-mindmaps)|
+| Presentation | 让演示文稿制作速度提升 10 倍，可导出为 PPT 与 Google 幻灯片 | slidedecksai.com |[点我打开Presentation](https://chatgpt.com/g/g-67e3c5d494a4819181f8bab64ba35a57-presentation)|
+| Presentation & Diagram Generator by <ShowMe> | 支持：流程图、UML、思维导图、甘特图、ERD、流程图、DFD、组织结构图、维恩图、饼图、柱状图、线框等 | helpful.dev |[点我打开Presentation & Diagram Generator](https://chatgpt.com/g/g-5QhhdsfDj-presentation-diagram-generator-by-showme)|
+| Resume | 结合顶级简历作者与先进 AI，帮助诊断并提升你的简历 | jobright.ai |[点我打开Resume](https://chatgpt.com/g/g-MrgKnTZbc-resume)|
+| invideo ai | AI 视频制作助手——在任何语言下生成带配音的吸引人视频 | invideo.io |[点我打开invideo ai](https://chatgpt.com/g/g-h8l4uLHFQ-invideo-ai)|
+| TurboScribe Transcription — Transcribe Audio/Video | 转录、摘要并与音视频文件聊天；上传到 turboscribe.ai 后即可在此对话 | TurboScribe |[点我打开TurboScribe](https://chatgpt.com/g/g-Mc1tBt7gp-turboscribe-transcription-transcribe-audio-video)|
+| Expedia | 让你的旅行计划成真——到达、停留，并发现可看可做的事物 | expedia.com |[点我打开Expedia](https://chatgpt.com/g/g-rmdbtMF7a-expedia)|
+| 参天AI - 八字命理预测大师 | 基于传统中国玄学理论的AI算命，以真太阳时为基准，由AI分析用户的出生日期、时间、性别和出生地点，生成个性化的八字排盘报告。通过天干地支与阴阳五行的相互作用，提供关于性格特点、事业发展、财富状况、婚姻关系和健康等方面的洞察。本GPT旨在作为自我反思和生活决策的参考，帮助用户更好地理解自身的生命轨迹。 | http://cantian.ai |[点我打开参天AI八字命理预测大师](https://chatgpt.com/g/g-68c54c332d0c81918e9bcedbb50214ca-can-tian-ai-ba-zi-ming-li-yu-ce-da-shi)|
+| Astrology Birth Chart GPT | 专业占星师 GPT，使用你的出生信息回答占星相关问题 | authorityastrology.com |[点我打开Astrology Birth Chart GPT](https://chatgpt.com/g/g-WxckXARTP-astrology-birth-chart-gpt)|
+| 운세박사 타로 - 무료 인공지능 AI 타로 리딩 챗GPT 궁합, 연애운, 사주, 전화 타로 | AI 塔罗运势大师；提供有趣的免费 ChatGPT 塔罗占卜，包括合拍度、恋爱运、四柱等多种运势解读 | aifortunedoctor.com |[点我打开운세박사 타로](https://chatgpt.com/g/g-67a56d907fc88191814386dac67ed919-unsebagsa-taro-muryo-ingongjineung-ai-taro-riding-caesgpt-gunghab-yeonaeun-saju-jeonhwa-taro)|
+| Personal Color Analysis | 私人色彩分析师，帮助你找到最适合的个人色彩 | Lana Aljuaid |[点我打开Personal Color Analysis](https://chatgpt.com/g/g-35kDoPvW7-personal-color-analysis)|
 
