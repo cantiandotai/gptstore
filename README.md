@@ -19,3 +19,9 @@
 | Resume | 结合顶级简历作者与先进 AI，帮助诊断并提升你的简历 | jobright.ai |[点我打开](https://chatgpt.com/g/g-MrgKnTZbc-resume)|
 | invideo ai | AI 视频制作助手——在任何语言下生成带配音的吸引人视频 | invideo.io |[点我打开](https://chatgpt.com/g/g-h8l4uLHFQ-invideo-ai)|
 | TurboScribe Transcription — Transcribe Audio/Video | 转录、摘要并与音视频文件聊天；上传到 turboscribe.ai 后即可在此对话 | TurboScribe |[点我打开](https://chatgpt.com/g/g-Mc1tBt7gp-turboscribe-transcription-transcribe-audio-video)|
+| Expedia | 让你的旅行计划成真——到达、停留，并发现可看可做的事物 | expedia.com |[点我打开](https://chatgpt.com/g/g-rmdbtMF7a-expedia)|
+| 参天AI - 八字命理预测大师 | 基于传统中国玄学理论的AI算命，以真太阳时为基准，由AI分析用户的出生日期、时间、性别和出生地点，生成个性化的八字排盘报告。通过天干地支与阴阳五行的相互作用，提供关于性格特点、事业发展、财富状况、婚姻关系和健康等方面的洞察。本GPT旨在作为自我反思和生活决策的参考，帮助用户更好地理解自身的生命轨迹。 | http://cantian.ai |[点我打开](https://chatgpt.com/g/g-68c54c332d0c81918e9bcedbb50214ca-can-tian-ai-ba-zi-ming-li-yu-ce-da-shi)|
+| Astrology Birth Chart GPT | 专业占星师 GPT，使用你的出生信息回答占星相关问题 | authorityastrology.com |[点我打开](https://chatgpt.com/g/g-WxckXARTP-astrology-birth-chart-gpt)|
+| 운세박사 타로 - 무료 인공지능 AI 타로 리딩 챗GPT 궁합, 연애운, 사주, 전화 타로 | AI 塔罗运势大师；提供有趣的免费 ChatGPT 塔罗占卜，包括合拍度、恋爱运、四柱等多种运势解读 | aifortunedoctor.com |[点我打开](https://chatgpt.com/g/g-67a56d907fc88191814386dac67ed919-unsebagsa-taro-muryo-ingongjineung-ai-taro-riding-caesgpt-gunghab-yeonaeun-saju-jeonhwa-taro)|
+| Personal Color Analysis | 私人色彩分析师，帮助你找到最适合的个人色彩 | Lana Aljuaid |[点我打开](https://chatgpt.com/g/g-35kDoPvW7-personal-color-analysis)|
+
