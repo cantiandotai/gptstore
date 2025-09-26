@@ -2,6 +2,7 @@
 开源免费的 GPTs Store GPTs 商店列表，更新收录最全的 GPTs，分享最有趣有意思的 GPTs
 
 | 名字 | 描述 | 作者 |
+|---|---|---|
 | Humanize AI | 顶级 AI 人性化工具，帮助你让 AI 生成的内容更像人类；提供免费额度等 | gptinf.com |
 | Scholar GPT | 用超过 2 亿资源和内置的批判性阅读能力增强科研；可访问 Google Scholar、PubMed、bioRxiv、arXiv 等 | awesomegpts.ai |
 | Fitness, Workout & Diet - PhD Coach | 快速提升；领取赠礼；获得即用型健身与训练支持，以及高级饮食与营养指导 | Newgen PhD |
